@@ -36,7 +36,7 @@ Este proyecto se centra en el desarrollo de un MVP (Producto Mínimo Viable) que
 
 - [TODO].
 
-## Responda 1 de las siguientes preguntas
+## Responda las siguientes preguntas
 
 ### Pregunta 1
 
