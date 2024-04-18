@@ -6,7 +6,7 @@ Este proyecto se centra en el desarrollo de un MVP (Producto Mínimo Viable) que
 
 ## Restricciones del Proyecto
 
-- **Duración:** 90 minutos.
+- **Duración:** 90 minutos aprox.
 - **Grupos:** Máximo dos alumnos.
 
 # Sobre el template desarrollado usted deberá lograr los siguientes puntos:
