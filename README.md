@@ -20,10 +20,11 @@ Este proyecto se centra en el desarrollo de un MVP (Producto Mínimo Viable) que
 
 - **Backend:** NodeJS (opcionalmente otras tecnologías)
 - **Base de Datos:** AWS RDS (Postgres o cualquier motor compatible) DynamoDB (opcionalmente otras bases de datos)
-- **Portabilidad (Puntos extra, OPCIONAL):** Docker + Docker Compose
 - **Despliegue:** AWS (EB, ECS, EC2, etc.) y la base de datos en seleccionada
 - **Logs (Puntos extra, OPCIONAL):** AWS CloudWatch (opcionalmente otras herramientas)
+- **Portabilidad (Puntos extra, OPCIONAL):** Docker + Docker Compose
 
+Se debe subir un link a un video o un video corto mostrando la funcionalidad y evidencia de uso de las herramientas.
 
 ## Aplicación de los 12 Factores
 
