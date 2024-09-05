@@ -39,13 +39,13 @@ Se debe subir un link a un video o un video corto mostrando la funcionalidad y e
 
 ## Responda las siguientes preguntas
 
-### Pregunta 1
+### Pregunta 1 NO VA!!!
 
 Considera un sistema de votación electrónica utilizado durante elecciones nacionales. Este sistema debe ser capaz de manejar un gran número de votantes que ingresan al sistema simultáneamente para emitir sus votos durante las horas pico del día electoral. Que tipo de performance testing realizaría para garantizar que el sistema es capaz de manejar la carga esperada? y por qué?
 
 Respuesta: [TODO]
 
-### Pregunta 2
+### Pregunta 2 NO VA!!!
 
 Imagina una plataforma de redes sociales que permite a los usuarios subir videos. Dado que la carga y procesamiento de videos pueden ser tareas intensivas en recursos y tiempo, la plataforma utiliza trabajos en segundo plano para codificar los videos en diferentes resoluciones y formatos una vez que se han subido. Esto permite que la interfaz de usuario permanezca receptiva y rápida, mientras los procesos más pesados se manejan en el fondo sin interrumpir la experiencia del usuario.
 
